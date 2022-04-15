@@ -1,4 +1,4 @@
 # AIDL
 Artificial Intelligence &amp; Deep Learning
 
-![image](https://user-images.githubusercontent.com/93842702/163524659-6ca8e9ee-5b0d-44e9-b401-b0446644ab6e.png)
+![AI   DL](https://user-images.githubusercontent.com/93842702/163623028-0b8a366e-70fe-4bc1-b857-cfe944d6b35d.svg)
